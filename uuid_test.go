@@ -7,6 +7,7 @@ import (
 	toolbox "github.com/eucatur/go-toolbox/uuid"
 	gofrs "github.com/gofrs/uuid"
 	google "github.com/google/uuid"
+	lsluuid "github.com/lsl/uuid"
 	proto "github.com/uuid6/uuid6go-proto"
 )
 
@@ -54,5 +55,13 @@ func BenchmarkCoolAJV7(b *testing.B) {
 	b.ResetTimer()
 	for i := 0; i < b.N; i++ {
 		_ = coolaj86.New()
+	}
+}
+
+// https://github.com/lsl/uuid/blob/main/uuidv7.go
+func BenchmarkLSLV7(b *testing.B) {
+	b.ResetTimer()
+	for i := 0; i < b.N; i++ {
+		_ = lsluuid.NewV7()
 	}
 }
