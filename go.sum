@@ -6,9 +6,7 @@ github.com/gofrs/uuid v4.4.0+incompatible h1:3qXRTX8/NbyulANqlc0lchS1gqAVxRgsuW1
 github.com/gofrs/uuid v4.4.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
-github.com/lsl/uuid v0.0.0-20251221123134-6efbb249695a h1:hxt8mFXtjE4QMvBQfWUh2OGV71LEB6n99jQVX6RZ30s=
-github.com/lsl/uuid v0.0.0-20251221123134-6efbb249695a/go.mod h1:9yndA2on8SQORLfKlt/15YceAuHYF/HfFJbnVkZKPrs=
-github.com/lsl/uuid v0.0.0-20260107161418-79da8d208563 h1:R1LH09RT7d2tURAdr9mON7AXKd8UO/ZiSR9cs5RLppU=
-github.com/lsl/uuid v0.0.0-20260107161418-79da8d208563/go.mod h1:b09nKLfYGtPYM9yvyMx9JZ0WxVcoFzyz354xAZv3c6I=
+github.com/lsl/uuid v0.0.0-20260114115811-2914a7a99d3b h1:xaYL2QDZu6tiqnq9xr1ItgAn8ijiB+aJjO8eHpTKL5U=
+github.com/lsl/uuid v0.0.0-20260114115811-2914a7a99d3b/go.mod h1:b09nKLfYGtPYM9yvyMx9JZ0WxVcoFzyz354xAZv3c6I=
 github.com/uuid6/uuid6go-proto v0.2.1 h1:wuHy43Hy7CnWnWOkQGthek1YO43SQD+A/X+YaDH5B3Q=
 github.com/uuid6/uuid6go-proto v0.2.1/go.mod h1:SFdogh0w3t8piuOBD4PXotblZWBqP2wospaF7txygWQ=
